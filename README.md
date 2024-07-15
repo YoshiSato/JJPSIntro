@@ -4,7 +4,7 @@
 - プログラムは[Anaconda 2024-06](https://www.anaconda.com/download/success)と[PyBADS 1.0.5](https://github.com/acerbilab/pybads)で動作確認をしています．
 # プログラムファイル
 
-これらのファイルの詳細については，上記論文をご参照ください．
+これらのファイルの詳細については，上記論文をご参照ください．各ファイルをクリック後，右上の「Download Raw File」ボタンでダウンロードできます．
 - [shat_from_x.py](https://github.com/YoshiSato/JPsySciIntro/blob/main/shat_from_x.py)
 - [r_from_shat.py](https://github.com/YoshiSato/JPsySciIntro/blob/main/r_from_shat.py)
 - [pr_from_s.py](https://github.com/YoshiSato/JPsySciIntro/blob/main/pr_from_s.py)
