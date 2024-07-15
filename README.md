@@ -1,6 +1,6 @@
 # BCIモデルフィッティングのPythonコード
 
--「基礎心理学研究」第43巻 第1号に掲載の解説論文「」用Pythonコードです．
+- 「基礎心理学研究」第43巻 第1号に掲載の解説論文「」用Pythonコードです．
 - プログラムは[Anaconda 2024-06](https://www.anaconda.com/download/success)と[PyBADS 1.0.5](https://github.com/acerbilab/pybads)で動作確認をしています．
 # プログラムファイル
 
